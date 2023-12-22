@@ -1,4 +1,4 @@
-## Olá eu sou o Ozorio Silva Neto, Desenvolvedor Web
+## Hello, I'm Ozorio Silva Neto, Software Developer
 
 
 <div align="left">
