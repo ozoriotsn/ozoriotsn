@@ -6,11 +6,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozorio-silva-neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozorio-silva-neto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-##
+
     
-<div align="center"> 
-  <br>
- 🛠 &nbsp;Tech Stack
+<div align="left"> 
+ <br>
+ ## 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A.svg?style=flat&logo=wordpress&logoColor=white)
