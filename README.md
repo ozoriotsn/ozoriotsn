@@ -9,8 +9,8 @@
 
     
 <div align="left"> 
- <br>
- ## 🛠 &nbsp;Tech Stack
+
+### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A.svg?style=flat&logo=wordpress&logoColor=white)
