@@ -1,5 +1,8 @@
 ## Hello, I'm Ozorio Silva Neto, Software Developer
 
+<div class="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73193&random=false&width=435&lines=Fullstack+Developer+PHP;Laravel+%7C+Vuejs+%7C+AWS+" alt="Typing SVG" /></a>
+</div>
 
 <div align="left">
   <a href="https://github.com/ozorio-silva-neto">
