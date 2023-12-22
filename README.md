@@ -7,7 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozorio-silva-neto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ##
-    ### 🛠 &nbsp;Tech Stack
+    
+<div align="center"> 
+  <br>
+ 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A.svg?style=flat&logo=wordpress&logoColor=white)
@@ -19,6 +22,9 @@
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=CF649A)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+</div>
+
 ##
 <div align="left"> 
   <a href="https://www.instagram.com/ozoriosilvaneto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
