@@ -23,9 +23,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=CF649A)
+![Vuejs](https://img.shields.io/badge/-Vuejs-05122A?style=flat&logoColor=&labelColor=&logo=vue.js)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
+![Cloudflare](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logoColor=&labelColor=&logo=postgresql)
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logoColor=&labelColor=&logo=mysql)
 </div>
 
 ##
