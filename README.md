@@ -14,23 +14,35 @@
 <div align="left"> 
 
 ### 🛠 &nbsp;Tech Stack
-
+![BACKEND](https://img.shields.io/badge/-BACKEND-05122A?style=flat&color=0077b5)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A.svg?style=flat&logo=wordpress&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A.svg?style=flat&logo=laravel&logoColor=FF2D20)
-![Docker](https://img.shields.io/badge/-Docker-05122A.svg?style=flat&logo=docker&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=CF649A)
-![Vuejs](https://img.shields.io/badge/-Vuejs-05122A?style=flat&logoColor=&labelColor=&logo=vue.js)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
-![Cloudflare](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logoColor=&labelColor=&logo=postgresql)
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logoColor=&labelColor=&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+
+![FRONTEND](https://img.shields.io/badge/-FRONTEND-05122A?style=flat&color=0077b5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![JQuery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=CF649A)
+![Vuejs](https://img.shields.io/badge/-Vuejs-05122A?style=flat&logoColor=&labelColor=&logo=vue.js)
+![Elementor](https://img.shields.io/badge/-Elementor-05122A?style=flat&logoColor=&labelColor=&logo=elementor)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logoColor=&labelColor=&logo=Figma)
+
+
+![INFRASTRUCTURE](https://img.shields.io/badge/-INFRA-05122A?style=flat&color=0077b5)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-05122A.svg?style=flat&logo=docker&logoColor=007ACC)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)
+![Apache](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+
 </div>
 
 ##
