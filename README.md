@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/ozorio-silva-neto">
+  <a href="https://github.com/ozoriotsn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozoriotsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozoriotsn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
