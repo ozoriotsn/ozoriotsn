@@ -37,12 +37,13 @@
 
 ![INFRASTRUCTURE](https://img.shields.io/badge/-INFRA-05122A?style=flat&color=0077b5)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitLab)
 ![Docker](https://img.shields.io/badge/-Docker-05122A.svg?style=flat&logo=docker&logoColor=007ACC)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)
-![Apache](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=sentry)
 </div>
 
 ##
