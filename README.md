@@ -48,9 +48,11 @@
 
 ##
 <div align="left"> 
-  <a href="https://www.instagram.com/ozoriosilvaneto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ozorio-silva-neto-601a1285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://linkme.bio/ozoriotsn" target="_blank"><img src="https://img.shields.io/badge/Linkeme.bio-grey?style=for-the-badge&logo=about.me"></a>  
+  <a href="https://www.linkedin.com/in/ozorio-silva-neto-601a1285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://api.whatsapp.com/send?phone=5551997493707" target="_blank"><img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>  
+ <a href="https://packagist.org/packages/ozoriotsn/" target="_blank"><img src="https://img.shields.io/badge/packagist.org-grey?style=for-the-badge&logo=packagist"></a>  
+
  
 </div>
 
